@@ -35,3 +35,7 @@ phpunit.phar
 
 # vagrant runtime
 /.vagrant
+
+#enviroment
+/environments
+/backend/web/.user.ini
