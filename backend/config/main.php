@@ -4,6 +4,8 @@ $params = array_merge(
     require(__DIR__ . '/params.php')
 );
 
+
+//测试修改
 return [
     'id'         => 'app-backend',
     'name'       => 'Yii2 Admin',
